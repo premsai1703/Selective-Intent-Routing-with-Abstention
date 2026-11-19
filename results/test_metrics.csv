@@ -1,0 +1,4 @@
+policy,threshold,supported_accepted,supported_total,unsupported_routed,unsupported_total,correct_accepted_supported,supported_acceptance,unsupported_routing,unsupported_rejection,accuracy_among_accepted_supported
+Always route,,4500,4500,1000,1000,4077,1.0,1.0,0.0,0.906
+Top score,0.11256159202744365,4289,4500,426,1000,3993,0.9531111111111111,0.426,0.574,0.9309862438796922
+Score gap,0.027281190723851698,4306,4500,564,1000,4010,0.9568888888888889,0.564,0.436,0.9312587087784486
