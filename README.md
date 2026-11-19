@@ -2,9 +2,6 @@
 
 **Authors** T. Prem Sai, M. Suhaas Choudary, Santosh Bangaru, A. Yaswanth, P. Venkata Jagadeesh
 
-**Course** ML - CSE 303  
-**Submission date** [19/11/2026]
-
 ## Reproduce the experiment
 
 Install the Python dependencies from the repository root.
